@@ -10,7 +10,7 @@
 
 # 👨‍💻 About Me
 
-Hello! 👋 I'm Talaat Magdy, a seasoned Backend End Engineer (BEE) with an insatiable curiosity for technology and a knack for solving complex problems. Currently, I lend my skills to Lucidya Company, transforming concepts into functional, scalable systems.
+Hello! 👋 I'm Talaat Magdy, a Backend End Engineer (BEE) with an insatiable curiosity for technology and a knack for solving complex problems. Currently, I lend my skills to Lucidya Company, transforming concepts into functional, scalable systems.
 
 ## 📚 Education
 
